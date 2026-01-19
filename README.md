@@ -1,5 +1,4 @@
 # Learning-Tasks
-This is a comprehensive summary of the network programming learning tasks you have collected, organized into a clear tabular format. Each entry includes a description of the task and the specific reference links you requested.
 
 ### **Network Programming: Learning Tasks & Datasets**
 
@@ -19,7 +18,6 @@ This is a comprehensive summary of the network programming learning tasks you ha
 
 ### **TRUSTEE Case Study Tasks**
 
-These specific tasks are discussed in the **TRUSTEE** paper to evaluate if models are making trustworthy decisions or just finding "shortcuts."
 
 | Use Case | Description | Source Dataset |
 | --- | --- | --- |
