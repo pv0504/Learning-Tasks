@@ -26,5 +26,3 @@
 | **Mirai Botnet Anomaly** | Unsupervised detection of botnet-style traffic behavior in IoT networks. | [Kitsune Mirai Dataset](https://archive.ics.uci.edu/ml/datasets/Kitsune+Network+Attack+Dataset) |
 | **IoT Device Fingerprinting** | Learning to identify specific IoT devices based on their unique communication signatures. | [UNSW-IoT Dataset](https://iotanalytics.unsw.edu.au/unsw-iotraffic.html) |
 | **Adaptive Bit-rate (ABR)** | Evaluating how deep learning models adjust video quality over cellular links. | [HSDPA Norway (Pensieve)](https://github.com/hongzimao/pensieve) |
-
-Would you like me to create a **one-page summary slide** or a **PDF report** version of this table that you can print out for your submission?
